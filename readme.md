@@ -1,4 +1,4 @@
-## MERN Ecommerce: A Seamless Shopping Experience Powered by the MERN Stack, Redux Toolkit, and Material UI
+##  Ecommerce: A Seamless Shopping Experience Powered by the full Stack, node.js, and HTML
 
 ### ```Note✨: I have another amazing project on``` [end-to-end-encrypted-chat-application](https://github.com/RishiBakshii/mern-chat) ```using Next.js, Prisma, Postgresql, Express, Socket.io.```
 
